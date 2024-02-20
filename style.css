@@ -163,6 +163,10 @@ section {
   height: 80vh;
 }
 
+#profile-picture {
+  border-radius: 150px;
+}
+
 .section__pic-container {
   display: flex;
   height: 400px;
